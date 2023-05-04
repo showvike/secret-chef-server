@@ -8,6 +8,10 @@ const port = 5000;
 app.use(cors());
 
 app.get("/", (req, res) => {
+  res.send({ message: "working" });
+});
+
+app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
