@@ -1,12 +1,14 @@
 const express = require("express");
 const cors = require("cors");
+const chefs = require("./chefs.json");
+
 const app = express();
 const port = 5000;
 
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.json({ name: "server" });
+  res.send(chefs);
 });
 
 app.listen(port, () => {
