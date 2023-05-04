@@ -5,7 +5,8 @@
     "chef_name": "Sanjeev Kapoor",
     "years_of_experience": 35,
     "numbers_of_recipes": 500,
-    "likes": 25000
+    "likes": 25000,
+    "short_bio": "Sanjeev Kapoor is a well-known chef, entrepreneur, and television personality. He has been awarded the Padma Shri and the National Award for Best Chef of India."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "chef_name": "Tarla Dalal",
     "years_of_experience": 30,
     "numbers_of_recipes": 400,
-    "likes": 20000
+    "likes": 20000,
+    "short_bio": "Tarla Dalal was an Indian chef, cookbook author, and television personality. She wrote over 100 cookbooks in English and Hindi and was known for her simple, easy-to-follow recipes."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "chef_name": "Vikas Khanna",
     "years_of_experience": 20,
     "numbers_of_recipes": 300,
-    "likes": 15000
+    "likes": 15000,
+    "short_bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge of MasterChef India. He is also the founder of the NGO, The World Peacekeepers Movement."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "chef_name": "Ranveer Brar",
     "years_of_experience": 15,
     "numbers_of_recipes": 200,
-    "likes": 10000
+    "likes": 10000,
+    "short_bio": "Ranveer Brar is a well-known Indian chef, television personality, and author. He is the host of several cooking shows on television, including MasterChef India, and has authored a number of cookbooks."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "chef_name": "Madhur Jaffrey",
     "years_of_experience": 40,
     "numbers_of_recipes": 600,
-    "likes": 30000
+    "likes": 30000,
+    "short_bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has authored several cookbooks and has been a judge on several cooking shows, including MasterChef USA."
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "chef_name": "Saransh Goila",
     "years_of_experience": 10,
     "numbers_of_recipes": 100,
-    "likes": 5000
+    "likes": 5000,
+    "short_bio": "Saransh Goila is a young Indian chef, food show host, and author. He is the host of the popular TV show Roti Rasta aur India and has authored the bestselling cookbook India on My Platter."
   }
 ]
