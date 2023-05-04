@@ -6,7 +6,42 @@
     "years_of_experience": 35,
     "numbers_of_recipes": 500,
     "likes": 25000,
-    "short_bio": "Sanjeev Kapoor is a well-known chef, entrepreneur, and television personality. He has been awarded the Padma Shri and the National Award for Best Chef of India."
+    "short_bio": "Sanjeev Kapoor is a well-known chef, entrepreneur, and television personality. He has been awarded the Padma Shri and the National Award for Best Chef of India.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +50,42 @@
     "years_of_experience": 30,
     "numbers_of_recipes": 400,
     "likes": 20000,
-    "short_bio": "Tarla Dalal was an Indian chef, cookbook author, and television personality. She wrote over 100 cookbooks in English and Hindi and was known for her simple, easy-to-follow recipes."
+    "short_bio": "Tarla Dalal was an Indian chef, cookbook author, and television personality. She wrote over 100 cookbooks in English and Hindi and was known for her simple, easy-to-follow recipes.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +94,42 @@
     "years_of_experience": 20,
     "numbers_of_recipes": 300,
     "likes": 15000,
-    "short_bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge of MasterChef India. He is also the founder of the NGO, The World Peacekeepers Movement."
+    "short_bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge of MasterChef India. He is also the founder of the NGO, The World Peacekeepers Movement.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +138,42 @@
     "years_of_experience": 15,
     "numbers_of_recipes": 200,
     "likes": 10000,
-    "short_bio": "Ranveer Brar is a well-known Indian chef, television personality, and author. He is the host of several cooking shows on television, including MasterChef India, and has authored a number of cookbooks."
+    "short_bio": "Ranveer Brar is a well-known Indian chef, television personality, and author. He is the host of several cooking shows on television, including MasterChef India, and has authored a number of cookbooks.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +182,42 @@
     "years_of_experience": 40,
     "numbers_of_recipes": 600,
     "likes": 30000,
-    "short_bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has authored several cookbooks and has been a judge on several cooking shows, including MasterChef USA."
+    "short_bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has authored several cookbooks and has been a judge on several cooking shows, including MasterChef USA.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,6 +226,41 @@
     "years_of_experience": 10,
     "numbers_of_recipes": 100,
     "likes": 5000,
-    "short_bio": "Saransh Goila is a young Indian chef, food show host, and author. He is the host of the popular TV show Roti Rasta aur India and has authored the bestselling cookbook India on My Platter."
+    "short_bio": "Saransh Goila is a young Indian chef, food show host, and author. He is the host of the popular TV show Roti Rasta aur India and has authored the bestselling cookbook India on My Platter.",
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Simmer in a tomato-based sauce with butter, cream, and spices.",
+        "rating": 4.8,
+        "image": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "ghee"],
+        "cooking_method": "Blanch spinach and puree. Fry paneer until golden brown. Saute onion and tomato, then add pureed spinach and spices. Add paneer and simmer until cooked.",
+        "rating": 4.5,
+        "image": "https://example.com/palak-paneer.jpg"
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt, ginger, garlic, and spices, then grill or bake until cooked. Par-cook rice. Layer rice and chicken in a pot with spices, fried onions, and ghee. Cook on low heat until rice is fully cooked.",
+        "rating": 4.6,
+        "image": "https://example.com/chicken-biryani.jpg"
+      }
+    ]
   }
 ]
