@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://example.com/chef1_profile_picture.jpg",
-    "chef_name": "Suvir Saran",
-    "years_of_experience": 20,
-    "numbers_of_recipes": 200,
-    "likes": 10000
+    "chef_picture": "https://global-uploads.webflow.com/61154a627733993096a9a3af/618ae06883ad82a13f292916_dl.png",
+    "chef_name": "Sanjeev Kapoor",
+    "years_of_experience": 35,
+    "numbers_of_recipes": 500,
+    "likes": 25000
   },
   {
     "id": 2,
-    "chef_picture": "https://example.com/chef2_profile_picture.jpg",
-    "chef_name": "Madhumita Pyne",
-    "years_of_experience": 10,
-    "numbers_of_recipes": 75,
-    "likes": 5000
+    "chef_picture": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
+    "chef_name": "Tarla Dalal",
+    "years_of_experience": 30,
+    "numbers_of_recipes": 400,
+    "likes": 20000
   },
   {
     "id": 3,
-    "chef_picture": "https://example.com/chef3_profile_picture.jpg",
-    "chef_name": "Pritha Sen",
-    "years_of_experience": 25,
+    "chef_picture": "https://i0.wp.com/bharatflux.com/wp-content/uploads/2023/03/Chef-vikas-khanna-.jpg?fit=1080%2C1350&ssl=1",
+    "chef_name": "Vikas Khanna",
+    "years_of_experience": 20,
     "numbers_of_recipes": 300,
     "likes": 15000
   },
   {
     "id": 4,
-    "chef_picture": "https://example.com/chef4_profile_picture.jpg",
-    "chef_name": "Romy Gill",
-    "years_of_experience": 12,
-    "numbers_of_recipes": 90,
-    "likes": 6000
+    "chef_picture": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Ranveer_Brar_Wiki_Image.jpg/800px-Ranveer_Brar_Wiki_Image.jpg",
+    "chef_name": "Ranveer Brar",
+    "years_of_experience": 15,
+    "numbers_of_recipes": 200,
+    "likes": 10000
   },
   {
     "id": 5,
-    "chef_picture": "https://example.com/chef5_profile_picture.jpg",
-    "chef_name": "Chandrima Sarkar",
-    "years_of_experience": 18,
-    "numbers_of_recipes": 150,
-    "likes": 8000
+    "chef_picture": "https://www.laphamsquarterly.org/sites/default/files/styles/tall_rectangle_custom_user_small_2x/public/images/contributor/jaffrey_360x450.jpg?itok=SU92XafT&timestamp=1421789050",
+    "chef_name": "Madhur Jaffrey",
+    "years_of_experience": 40,
+    "numbers_of_recipes": 600,
+    "likes": 30000
   },
   {
     "id": 6,
-    "chef_picture": "https://example.com/chef6_profile_picture.jpg",
-    "chef_name": "Pia Promina Dasgupta",
-    "years_of_experience": 8,
-    "numbers_of_recipes": 50,
-    "likes": 3000
+    "chef_picture": "https://hashtagmagazine.in/wp-content/uploads/2021/07/Saransh-Goila_1-740x740.jpg",
+    "chef_name": "Saransh Goila",
+    "years_of_experience": 10,
+    "numbers_of_recipes": 100,
+    "likes": 5000
   }
 ]
